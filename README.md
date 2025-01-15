@@ -4,20 +4,20 @@ This project is a basic Python chatbot developed as part of my internship at Cod
 
 ## Features
 
--Interactive chatbot using Python and nltk
--Responds to basic conversational patterns
--Can be expanded for more advanced natural language processing
+Interactive chatbot using Python and nltk
+Responds to basic conversational patterns
+Can be expanded for more advanced natural language processing
 
 ## Technologies Used
--Python
--NLTK (Natural Language Toolkit)
--Git
+Python
+NLTK (Natural Language Toolkit)
+Git
 
 ## How to Run the Project
-- Clone the repository:
+Clone the repository:
   git clone https://github.com/SaiTeja-Nagapuri/Chatbotsai.git
   cd Chatbotsai
-- Install Dependencies: Ensure Python and NLTK are installed:
+Install Dependencies: Ensure Python and NLTK are installed:
   pip install nltk
-- Run the Chatbot:
+Run the Chatbot:
   python chatbot.py
