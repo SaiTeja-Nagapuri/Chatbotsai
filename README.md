@@ -1,5 +1,5 @@
 ## Chatbot Project
-This project is a basic Python chatbot developed as part of my internship at CodeClause. The chatbot uses the nltk library and simple regular expressions to interact with users.
+This project is a basic Python chatbot developed as part of my internship. The chatbot uses the nltk library and simple regular expressions to interact with users.
 
 ## Features
 Interactive chatbot using Python and nltk.
